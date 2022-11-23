@@ -30,4 +30,4 @@ Choose '**Copy image to designated relative assets or global local folder**'
 ./${filename}_assets/
 ```
 
-![](markdownSetting_assets/e078a3dbe554e713211ec4a12a84074e0d03f894.png)
+<img src="markdownSetting_assets/e078a3dbe554e713211ec4a12a84074e0d03f894.png" title="" alt="" width="494">
